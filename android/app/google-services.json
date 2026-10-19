@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241840914446",
+    "project_id": "fyp-app-9caa8",
+    "storage_bucket": "fyp-app-9caa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241840914446:android:b1d92d71564f44b96efc5f",
+        "android_client_info": {
+          "package_name": "com.example.shelter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAqh4Oyq5RG_7nrt-YmJFno6ksWiW_56c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
